@@ -26,3 +26,4 @@
 
 * [ToS](mentions-legales/tos.md)
 * [Privacy Policy](mentions-legales/privacy-policy.md)
+* [Contact](mentions-legales/contact.md)
