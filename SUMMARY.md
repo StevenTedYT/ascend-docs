@@ -1,17 +1,28 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Bienvenue !](README.md)
 
-## Getting Started
+## Installation
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Démarrage](installation/demarrage.md)
+* [Configuration](installation/configuration/README.md)
+  * [Langue](installation/configuration/configuration.md)
+  * [Configuration des rôles](installation/configuration/configuration-des-roles.md)
+  * [Tag du serveur](installation/configuration/tag-du-serveur.md)
+  * [Classement](installation/configuration/classement.md)
+  * [Salon des logs](installation/configuration/salon-des-logs.md)
+  * [Type de logs](installation/configuration/type-de-logs.md)
+  * [Notifications de rang](installation/configuration/notifications-de-rang.md)
+  * [Rangs](installation/configuration/rangs.md)
+  * [Blacklist](installation/configuration/blacklist.md)
 
-## Basics
+## Apprends les bases
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Rank Points (RP)](apprends-les-bases/rank-points.md)
+* [Streaks (Flammes)](apprends-les-bases/streaks.md)
+* [Saison](apprends-les-bases/saison.md)
+
+## Mentions légales
+
+* [ToS](mentions-legales/tos.md)
+* [Privacy Policy](mentions-legales/privacy-policy.md)
