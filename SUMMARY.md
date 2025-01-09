@@ -13,7 +13,7 @@
   * [Salon des logs](installation/configuration/salon-des-logs.md)
   * [Type de logs](installation/configuration/type-de-logs.md)
   * [Notifications de rang](installation/configuration/notifications-de-rang.md)
-  * [Rangs](installation/configuration/rangs.md)
+  * [Rangs (Rôles)](installation/configuration/rangs-roles.md)
   * [Blacklist](installation/configuration/blacklist.md)
 
 ## Apprends les bases
@@ -27,3 +27,7 @@
 * [ToS](mentions-legales/tos.md)
 * [Privacy Policy](mentions-legales/privacy-policy.md)
 * [Contact](mentions-legales/contact.md)
+
+## Changelog
+
+* [1.0](changelog/1.0.md)
