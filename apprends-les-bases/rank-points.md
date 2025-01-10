@@ -58,7 +58,6 @@ Une fois que vous atteignez le plus gros rang (Master), les vérifications d'ina
 * **+4000 RP** : Vérification toutes les **7 heures**.
 * **+5000 RP** : Vérification toutes les **5 heures**.
 * **+6000 RP** : Vérification toutes les **3 heures**.
-* **+7000 RP** : Vérification toutes les **1 heure**.
 
 {% hint style="info" %}
 Plus votre rang est élevé, plus il sera important de rester actif pour ne pas perdre vos RP
