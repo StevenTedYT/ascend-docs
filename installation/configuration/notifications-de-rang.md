@@ -15,7 +15,7 @@ Une fois activées, les notifications seront envoyées automatiquement dans un s
 ## Où sont envoyées les notifications de rang ?
 
 * **Salon configuré** : Si un **salon de notification** a été défini dans les paramètres, les notifications y seront envoyées.\
-  👉 Pour configurer ou modifier ce salon, consultez la page [Salon de notification](salon-des-logs.md).
+  👉 Pour configurer ou modifier ce salon, consultez la page [Salon de notification](salon-de-notifications.md).
 * **Par défaut** : Si aucun salon de notification n'est configuré, les messages seront envoyés dans le dernier salon où le membre a interagi.
 
 ## Comment changer la langue des notifications ?

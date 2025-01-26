@@ -13,6 +13,9 @@
   * [Salon des logs](installation/configuration/salon-des-logs.md)
   * [Type de logs](installation/configuration/type-de-logs.md)
   * [Notifications de rang](installation/configuration/notifications-de-rang.md)
+  * [Salon de notifications](installation/configuration/salon-de-notifications.md)
+  * [Salon d'événement](installation/configuration/salon-devenement.md)
+  * [Rôle d'événement](installation/configuration/role-devenement.md)
   * [Rangs (Rôles)](installation/configuration/rangs-roles.md)
   * [Blacklist](installation/configuration/blacklist.md)
 
