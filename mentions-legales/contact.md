@@ -4,7 +4,6 @@ Si vous avez des questions, des préoccupations ou si vous souhaitez obtenir de 
 
 ### Contact de @untanukii (Propriétaire & Développeur)
 
-* **Email** : untanukii@gmail.com
 * **Discord** : [@untanukii](https://discord.com/users/670255715553902612)
 
 ### Contact de @stevented (Propriétaire & Design)
