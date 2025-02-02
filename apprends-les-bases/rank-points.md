@@ -53,11 +53,11 @@ Si vous êtes inactif sur le serveur (aucune interaction), vous perdez des RP to
 
 Une fois que vous atteignez le plus gros rang (Master), les vérifications d'inactivité deviennent plus fréquentes :
 
-* **+2050 RP** : Vérification toutes les **16 heures**.
-* **+3000 RP** : Vérification toutes les **10 heures**.
-* **+4000 RP** : Vérification toutes les **7 heures**.
-* **+5000 RP** : Vérification toutes les **5 heures**.
-* **+6000 RP** : Vérification toutes les **3 heures**.
+* **+3000 RP** : Vérification toutes les **16 heures**.
+* **+4000 RP** : Vérification toutes les **10 heures**.
+* **+5000 RP** : Vérification toutes les **7 heures**.
+* **+6000 RP** : Vérification toutes les **5 heures**.
+* **+7000 RP** : Vérification toutes les **3 heures**.
 
 {% hint style="info" %}
 Plus votre rang est élevé, plus il sera important de rester actif pour ne pas perdre vos RP
