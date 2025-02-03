@@ -25,7 +25,7 @@ Une fois le bot ajouté, il sera en ligne sur votre serveur. Voici les première
    * Placez le rôle du bot au-dessus des autres rôles pour qu’il puisse attribuer les rangs.
 2. **Lancer la configuration initiale** :\
    Utilisez la commande suivante pour configurer le bot rapidement :
-   * `/setup ranks` : Crée automatiquement les rôles de rang pour votre serveur.
+   * `/settings > Rangs > Créer les rôles` : Crée automatiquement les rôles de rang pour votre serveur.
 
 {% hint style="success" %}
 Le bot ne demande pas la permission "**Administrateur**". Assurez-vous donc que le bot **ait** la permission "**Voir le Salon**" dans les salons où le bot doit **comptabiliser** les RP.
