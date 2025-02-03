@@ -40,17 +40,20 @@ Les saisons sont les mêmes pour **tous les serveurs** :
 
 ## Démarrer une nouvelle saison
 
-Le **créateur du serveur** (ou administrateur) doit lancer manuellement une nouvelle saison sur son serveur en utilisant la commande suivante :
+La nouvelle saison se lancera **automatiquement** à la date et à l’heure prévues.\
+Pour connaître la date et l’heure exactes, utilisez la commande `/season`
 
-* **`/saison start`** : Cette commande démarre officiellement une nouvelle saison sur le serveur.
+Lorsqu’une nouvelle saison démarre :
 
-{% hint style="info" %}
-La commande `/saison start` ne peut être utilisée qu’une fois que la saison globale a été lancée. Vérifiez les annonces sur le serveur officiel du bot pour être informé du début de la nouvelle saison globale.
+1. Les **anciens rôles de rang** (de la saison précédente) **ne sont pas supprimés** automatiquement.
+   * Vous pouvez les conserver si vous souhaitez garder une trace des saisons passées.
+   * Si vous préférez faire le ménage, vous pouvez toujours les supprimer manuellement.
+2. Pour **reconfigurer** les rôles pour la nouvelle saison, exécutez `/settings > Rangs > Créer les rôles`
+   * Tous les **nouveaux rôles** seront alors créés et **associés automatiquement** à chaque rang de la nouvelle saison.
+
+{% hint style="success" %}
+Si vous souhaitez éviter toute confusion entre les anciens et nouveaux rôles, pensez à renommer ou supprimer les rôles obsolètes avant de créer les nouveaux.
 {% endhint %}
-
-### **Que se passe-t-il si je ne démarre pas une nouvelle saison sur mon serveur ?**
-
-Si vous n'utilisez pas la commande `/saison start`, les rangs de votre serveur resteront en attente. Les membres ne pourront pas progresser dans la nouvelle saison tant que celle-ci n'aura pas été lancée.
 
 ### **Les saisons sont-elles différentes d’un serveur à l’autre ?**
 
