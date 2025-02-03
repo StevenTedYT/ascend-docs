@@ -4,7 +4,7 @@ L'option **"Rangs (Rôles)"** permet de créer et de gérer automatiquement les 
 
 ## Création automatique des rôles
 
-1. Utilisez la commande `/setup ranks` pour créer automatiquement tous les rôles associés aux rangs du bot.
+1. Utilisez la commande `/settings > Rangs > Créer les rôles` pour créer automatiquement tous les rôles associés aux rangs du bot.
 2. Le bot génère deux types de rôles pour chaque palier :
    * **Rôle de palier** : Exemple : `Bronze`
    * **Rôles de niveau de palier** : Exemple : `Bronze 1`, `Bronze 2`, `Bronze 3`
