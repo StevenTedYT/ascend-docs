@@ -2,7 +2,7 @@
 
 ## Setup ranks
 
-Par défaut, le bot ne crée pas automatiquement les rôles. Pour configurer les rôles, vous devez exécuter la commande `/setup ranks`&#x20;
+Par défaut, le bot ne crée pas automatiquement les rôles. Pour configurer les rôles, vous devez exécuter la commande `/settings > Rangs > Créer les rôles`&#x20;
 
 Les rôles sont optionnels et non obligatoires pour le bon fonctionnement du bot
 
