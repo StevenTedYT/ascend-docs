@@ -3,7 +3,7 @@
 ### Description
 
 Atteignez des paliers de messages envoyés pour gagner des récompenses.\
-Plus vous envoyez de messages, plus vous cumulez des :RP: et des récompenses spéciales.\
+Plus vous envoyez de messages, plus vous cumulez des RP et des récompenses spéciales.\
 Participez sur tous vos serveurs et montez votre rang !
 
 ### Récompenses
