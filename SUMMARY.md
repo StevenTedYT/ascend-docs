@@ -33,6 +33,7 @@
 
 * [1.0](changelog/1.0.md)
 * [1.1](changelog/1.1.md)
+* [1.2](changelog/1.2.md)
 
 ## Mentions légales
 
