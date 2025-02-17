@@ -41,7 +41,7 @@ Ce Contrat peut être résilié par l'une ou l'autre des parties à tout moment 
 
 ### 8. Droit Applicable
 
-Ce Contrat sera régi par et interprété conformément aux lois de \[Votre pays/état/province]. Tout litige découlant de ou en relation avec ce Contrat sera résolu par arbitrage ou tout autre mécanisme de résolution des litiges jugé approprié par les Propriétaires du Bot.
+Ce Contrat sera régi par et interprété conformément aux lois de France. Tout litige découlant de ou en relation avec ce Contrat sera résolu par arbitrage ou tout autre mécanisme de résolution des litiges jugé approprié par les Propriétaires du Bot.
 
 ### 9. Accord Complet
 
