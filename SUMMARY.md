@@ -29,6 +29,7 @@
 * [Saison](apprends-les-bases/saison.md)
 * [Liste des événements](apprends-les-bases/liste-des-evenements/README.md)
   * [Personnal Message Rush](apprends-les-bases/liste-des-evenements/personnal-message-rush.md)
+  * [Reaction Storm](apprends-les-bases/liste-des-evenements/reaction-storm.md)
 
 ## Changelog
 
