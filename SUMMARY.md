@@ -40,4 +40,5 @@
 
 * [ToS](mentions-legales/tos.md)
 * [Privacy Policy](mentions-legales/privacy-policy.md)
+* [Crédits](mentions-legales/credits.md)
 * [Contact](mentions-legales/contact.md)
