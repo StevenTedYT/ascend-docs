@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Ajouter le bot](https://discord.com/oauth2/authorize?client_id=1312924786451812413\&permissions=275146722497\&integration_type=0\&scope=applications.commands+bot)
+* [Ajouter le bot](https://discord.com/oauth2/authorize?client_id=1312924786451812413)
 * [Rejoindre le support](https://discord.gg/YZQQZ48W2b)
+* [Vote pour le bot !](https://top.gg/bot/1312924786451812413/vote)
 * [Bienvenue !](README.md)
 
 ## Installation
