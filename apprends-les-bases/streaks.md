@@ -1,7 +1,3 @@
----
-icon: image-landscape
----
-
 # Streaks (Flammes)
 
 Les **Streaks (Flammes)** récompensent votre activité quotidienne sur le serveur Discord. En maintenant une série de jours consécutifs d'interactions (messages envoyés), vous pouvez accumuler des RP tout en débloquant des multiplicateurs à des paliers spécifiques.

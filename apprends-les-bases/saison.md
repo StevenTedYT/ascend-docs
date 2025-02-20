@@ -1,7 +1,3 @@
----
-icon: markdown
----
-
 # Saison
 
 Le **Système de Saison** apporte une nouvelle dynamique au bot en réinitialisant les rangs tous les 60 jours. Chaque saison permet de repartir à zéro, tout en récompensant les membres en fonction de leur rang à la fin de la saison précédente.

@@ -1,7 +1,3 @@
----
-icon: pen-to-square
----
-
 # Rank Points (RP)
 
 Les **Rank Points (RP)** sont au cœur du système de progression. Vous pouvez en gagner en étant actif sur votre serveur Discord et en participant de différentes manières.
